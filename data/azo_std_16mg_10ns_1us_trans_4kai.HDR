@@ -8,7 +8,7 @@ remark      :
 data format : ascii csv
             : 
 X-axis      : Time
-X-unit      : unit
+X-unit      : ns
 X-volume    : 101
 X-start     : -140.0
 X-end       : 860.0
