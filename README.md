@@ -1,5 +1,5 @@
 # pyKinetics
-[](./assets/pyKinetics_wide.png)
+[](assets/pyKinetics_wide.png)
 A Python program for transient absorption analyses.
 
 ## Update history
