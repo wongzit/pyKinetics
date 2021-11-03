@@ -1,4 +1,4 @@
-# pyKinetics
+# py.Kinetics
 ![](/assets/pyKinetics_wide.png)
 A Python program for kinetics analyses, designed for transient absorption measurements of laser flash photolysis.
 
