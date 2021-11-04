@@ -3,6 +3,9 @@
 A Python program for kinetics analyses, designed for transient absorption measurements of laser flash photolysis.
 
 ## Update history
+### v0.5.β
+First *beta* release of py.**Kinetics**. Third order exponential fitting is supported. Improved user interface.
+
 ### v0.4.α
 Impoved program stability and GUI. Added real-time interaction of TAS and multi-wavelength time profiles.
 
