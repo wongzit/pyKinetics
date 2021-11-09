@@ -5,7 +5,7 @@ A Python program for kinetics analyses, designed for transient absorption measur
 ## Update history
 ### v0.6.β
 Added setting panel, users can select plot style, color system, and line width for their plots. Also included initial
-guess setting for line fitting.
+guess setting for line fitting. Minor UI change.
 
 ### v0.5.β
 First *beta* release of py.**Kinetics**. Third order exponential fitting is supported. Improved user interface.
