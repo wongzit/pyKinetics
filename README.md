@@ -17,17 +17,5 @@ guess setting for line fitting. Minor UI change.
 ### v0.5.β
 First *beta* release of py.**Kinetics**. Third order exponential fitting is supported. Improved user interface.
 
-### v0.4.α
-Impoved program stability and GUI. Added real-time interaction of TAS and multi-wavelength time profiles.
-
-### v0.3.α
-Second order exponential fitting is supported.
-
-### v0.2.α
-Improved code quality, uploaded sample data files.
-
-### v0.1.α
-First *alpha* release of py.**Kinetics**. Single exponential fitting is supported.
-
 ## Usage
 About usage of py.**Kinetics**, please refer to the user manual.
