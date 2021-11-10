@@ -1,0 +1,41 @@
+
+format ver. : 
+ 200 
+date        : 2020-06-03
+time        : 13:43:23
+sample name : 
+remark      : 
+data format : ascii csv
+            : 
+X-axis      : Time
+X-unit      : ms
+X-volume    : 1001
+X-start     : -0.2
+X-end       : 1.8
+X-dx        : 0.002
+            : 
+Y-axis      : Wavelength
+Y-unit      : nm
+Y-volume    : 1
+Y-start     : 530.0
+Y-end       : 530.0
+Y-dy        : 0.0
+            : 
+Z-axis      : ГвAbs
+Z-unit      : 
+Z-max       :  .15
+Z-min       : -.05
+            : 
+Data        : Meas
+Calculate   : 
+Condition1  : Methodееееееееееееее Flash Photolysis
+Condition2  : Data Size ееееееееее 1001p(OS)
+Condition3  : Response еееееееееее Fastest(1)
+Condition4  : Average (Software) е 1
+Condition5  : Average (Oscillo.) е 2
+Condition6  : Laser Interval еееее 0.1
+Condition7  : Emission Subtractionе No
+Condition8  : Laser Delay ееееееее 0 ns
+Condition9  : 
+Condition10 : Slit / Resolution ее 0.5mm 4.3 nm
+ConditionEND: ParmEND
