@@ -4,7 +4,7 @@ A Python program for kinetics analyses, designed for transient absorption measur
 
 ## How to run
 1. If Python IDE has been installed, users can run py.**Kinetics** from source code. External library *matplotlib*, *numpy*, *scipy* and *Pillow* is needed.
-2. Mac users could download the .app file from [Google Drive](https://drive.google.com/file/d/1CnbJNQixZVmg1Vwqj_ugE8FcYVtoYuWp/view?usp=sharing), and save it in the /Applications folder. Then, py.**Kinetics** could be run from Launchpad.
+2. Mac users could download the .app file from [Google Drive](https://drive.google.com/file/d/1Xog0z_sVIo2iDa9iQV3b-HGQ-FvKBPe7/view?usp=sharing), and save it in the /Applications folder. Then, py.**Kinetics** could be run from Launchpad.
 
 ## Update history
 ### v1.0.0 (2021-11-10)
